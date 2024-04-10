@@ -79,3 +79,9 @@ h1 {
 .navbar ul li a.active {
     color: #507CF2; /* change color of active link, adjust as needed */
 }
+
+h4, p {
+    margin: auto;
+    width: 90%;
+    text-align: center;
+}
