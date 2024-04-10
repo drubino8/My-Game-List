@@ -1,13 +1,3 @@
-# Web Starter
+# My Personal Battle Pass Tracker
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ewuweblab/web-starter)
-
-
-> Computers are dumb. Humans make them smart.
-
-Starter (boilerplate) for all future projects.
-
-## Why Does This Exist?
-* Don't start with nothing
-* Common boilerplate for web projects
-* I am a human being who makes mistakes
+I play way to many games that have battle passes and need a way to track them all. This is for me to track my current level/tier in each battle pass and the time remaining.
