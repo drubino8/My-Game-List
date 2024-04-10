@@ -1,3 +1,3 @@
-# My Personal Battle Pass Tracker
+# My Game
 
-I play way to many games that have battle passes and need a way to track them all. This is for me to track my current level/tier in each battle pass and the time remaining.
+There are many games I currently play and that I want to play. It is easy for me to lose track of all I want to do. This is my way of tracking my backlog of games I want to complete as well as a way for me to track my battle passes of games I play.
