@@ -30,12 +30,12 @@ function createCountdown(targetDate, elementId) {
 }
 
 // Create multiple countdowns
-createCountdown("2024-07-05 23:59:59", "apexCountdown");
+createCountdown("2024-08-05 23:59:59", "apexCountdown");
 // createCountdown("2024-05-18 23:59:59", "fsCountdown");
 createCountdown("2024-08-16 23:59:59", "fnCountdown");
 createCountdown("2024-08-19 23:59:59", "owCountdown");
 createCountdown("2024-09-08 23:59:59", "r6Countdown");
 createCountdown("2024-09-04 23:59:59", "rlCountdown");
-createCountdown("2024-09-04 23:59:59", "valCountdown");
+createCountdown("2024-08-27 23:59:59", "valCountdown");
 createCountdown("2024-09-23 23:59:59", "xdCountdown");
 createCountdown("2024-09-04 23:59:59", "zzzCountdown");
