@@ -5,5 +5,6 @@ There are many games I currently play and that I want to play. It is easy for me
 ## What This Includes
 * Brief intro page listing my favorite games and platforms
 * Table with my backlog of games
+    * (Currently working on converting all data into a .json file and an API)
 * Table with a tracker for my Battle Pass Progress
     * (Currently working on learning APIs and applying an API to track my level automatically)
