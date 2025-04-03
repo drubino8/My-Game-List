@@ -33,10 +33,11 @@ function createCountdown(targetDate, elementId) {
 // createCountdown("2024-08-05 23:59:59", "apexCountdown");
 // createCountdown("2024-08-19 23:59:59", "codCountdown");
 // createCountdown("2024-05-18 23:59:59", "fsCountdown");
-createCountdown("2024-11-02 23:59:59", "fnCountdown");
-createCountdown("2024-10-15 23:59:59", "owCountdown");
+createCountdown("2025-05-02 23:59:59", "fnCountdown");
+createCountdown("2025-04-11 23:59:59", "mrCountdown");
+createCountdown("2025-04-22 23:59:59", "owCountdown");
 // createCountdown("2024-09-08 23:59:59", "r6Countdown");
-createCountdown("2024-12-04 23:59:59", "rlCountdown");
+createCountdown("2025-06-18 23:59:59", "rlCountdown");
 // createCountdown("2024-08-27 23:59:59", "valCountdown");
 // createCountdown("2024-09-23 23:59:59", "xdCountdown");
-createCountdown("2024-11-01 23:59:59", "zzzCountdown");
+createCountdown("2025-04-20 23:59:59", "zzzCountdown");
